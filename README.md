@@ -37,8 +37,7 @@ Dari tabel di atas, didapatkan jumlah IP sebanyak **5845**, sehingga dapat mengg
 
 Berikut hasil topologi untuk GNS 3: 
 
-![Picture2](https://user-images.githubusercontent.com/90212308/143684235-afd3f1cc-8bfa-4e2e-bfa6-d76436736c4b.png)
-
+![image](https://user-images.githubusercontent.com/64303057/143679521-3782a43a-23d7-487a-b276-04129e973efc.png)
 
 ## Subnetting GNS 3
 
