@@ -3,7 +3,7 @@
 ## Anggota Kelompok
 
 1. Gerald Elroy Van Ryan - 05111940000187
-2. Riza Dwi
+2. Riza Dwi Andhika - 05111940000149
 3. Gian Ega Wijaya - 05111940000214
 
 
