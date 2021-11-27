@@ -11,6 +11,8 @@
 
 1. Melakukan pembagian subnet pada topologi. Total hingga A15.
 
+![Picture2](https://user-images.githubusercontent.com/90212308/143684715-444ae640-d433-4a1c-80ae-cc90cb630d21.png)
+
 2. Jumlah IP dapat ditentukan dengan menggabungkan jumlah semua host oleh tiap subnet & sertakan labeling netmask berdasarkan jumlah IP. 
 
 - Tabel subnet
