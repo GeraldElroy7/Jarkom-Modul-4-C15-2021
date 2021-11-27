@@ -29,7 +29,7 @@ Dari tabel di atas, didapatkan jumlah IP sebanyak **5845**, sehingga dapat mengg
 
 4. Dari subnet-*tree* di atas, maka didapatlah pembagian IP sebagai berikut :
 
-![Picture3](https://user-images.githubusercontent.com/90212308/143684365-8cd0fa3b-db6a-453d-b2e1-6af2e52a6bad.png)
+![Picture3](https://user-images.githubusercontent.com/90212308/143684559-28260db9-d717-4056-bf7e-077ce7f178d3.png)
 
 ## Topologi GNS 3
 
