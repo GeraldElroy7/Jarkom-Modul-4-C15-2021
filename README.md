@@ -3,6 +3,8 @@
 ## Anggota Kelompok
 
 1. Gerald Elroy Van Ryan - 05111940000187
+2. Riza Dwi
+3. Gian Ega wijaya 
 
 
 ## Perhitungan VLSM
@@ -17,7 +19,7 @@
 
 - Tabel penentuan IP & netmask
 
-![image](https://user-images.githubusercontent.com/64303057/143678704-4817d57c-da64-473d-9e0c-7eda199358a9.png)
+![Picture4](https://user-images.githubusercontent.com/90212308/143684421-d2da8775-aaa0-421c-96cc-7a55141a96ab.png)
 
 Dari tabel di atas, didapatkan jumlah IP sebanyak **5845**, sehingga dapat menggunakan netmask /19.
 
@@ -27,11 +29,14 @@ Dari tabel di atas, didapatkan jumlah IP sebanyak **5845**, sehingga dapat mengg
 
 4. Dari subnet-*tree* di atas, maka didapatlah pembagian IP sebagai berikut :
 
+![Picture3](https://user-images.githubusercontent.com/90212308/143684365-8cd0fa3b-db6a-453d-b2e1-6af2e52a6bad.png)
+
 ## Topologi GNS 3
 
 Berikut hasil topologi untuk GNS 3: 
 
-![image](https://user-images.githubusercontent.com/64303057/143679521-3782a43a-23d7-487a-b276-04129e973efc.png)
+![Picture2](https://user-images.githubusercontent.com/90212308/143684235-afd3f1cc-8bfa-4e2e-bfa6-d76436736c4b.png)
+
 
 ## Subnetting GNS 3
 
