@@ -185,7 +185,9 @@ Berikut adalah contoh ping pada GNS :
 
 ![image](https://user-images.githubusercontent.com/64303057/143683475-6b8e95fa-de1c-4c4e-a9d6-4a8364b64971.png)
 
+## Kesulitan selama pengerjaan
 
+1. Tidak bisanya ping ke server (seperti Dorki) karena adanya kesalahan penulisan netmask.
 
 
 
