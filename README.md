@@ -4,7 +4,7 @@
 
 1. Gerald Elroy Van Ryan - 05111940000187
 2. Riza Dwi
-3. Gian Ega wijaya 
+3. Gian Ega Wijaya - 05111940000214
 
 
 ## Perhitungan VLSM
